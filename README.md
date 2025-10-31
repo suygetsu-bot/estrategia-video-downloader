@@ -14,11 +14,12 @@ cd C:\estrategia
 mkdir downloads
 mkdir driver
 C:\estrategia → raiz do projeto
+```
 
 C:\estrategia\downloads → onde os vídeos vão cair
 
 C:\estrategia\driver → onde vamos colocar o msedgedriver.exe
-```
+
 
 OBS.: Você pode alterar o destino do arquivo, se assim desejar.
 
