@@ -98,7 +98,7 @@ Ele vai abrir o Edge → você faz login → volta pro PowerShell → aperta ENT
 
 Quer baixar outro curso lá no Estratégia?
 
-Basta alterar apenas uma linha do código (onde está CURSO_URL): 
+Basta abrir o arquivo "estrategia_download_edge_any" com o bloco de notas e alterar apenas uma linha do código (onde está CURSO_URL): 
 ```
 CURSO_URL = "https://www.estrategiaconcursos.com.br/app/dashboard/cursos/XXXXXX/aulas"
 ```
