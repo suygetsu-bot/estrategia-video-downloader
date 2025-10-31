@@ -8,13 +8,14 @@ Automação de download/salvamento de aulas com Python + Selenium (Edge)
 
 Execute o **PowerShell como Administrador** e cole:
 
-```powershell
+```
 mkdir C:\estrategia
 cd C:\estrategia
 mkdir downloads
 mkdir driver
-C:\estrategia → raiz do projeto
 ```
+
+C:\estrategia → raiz do projeto
 
 C:\estrategia\downloads → onde os vídeos vão cair
 
