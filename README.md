@@ -50,7 +50,7 @@ O script já está apontando pra esse caminho.
 
 
 ### 4. Criar o script
-Crie um arquivo chamado:
+Crie um arquivo no Bloco de Notas chamado:
 ```
 C:\estrategia\estrategia_download_edge_any.py
 ```
@@ -63,6 +63,8 @@ OBS.: Na linha de código:
 CURSO_URL = "https://www.estrategiaconcursos.com.br/app/dashboard/cursos/21XXXX/aulas"
 ```
 você DEVE preencher com o link do curso desejado no espaço entre aspas (").
+
+Salve o tipo do arquivo como "Todos os arquivos", não como *.txt
 
 
 ### 5. Definir as variáveis de ambiente (login + pasta + qualidade opcional)
