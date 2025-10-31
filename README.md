@@ -3,10 +3,15 @@ Automação de download/salvamento de aulas com Python + Selenium (Edge)
 
 ### Requisitos
 Windows
+
 Microsoft Edge instalado
+
 Python 3 instalado e no PATH
+
 Conta do Estratégia que já acessa o curso
+
 WebDriver do Edge (msedgedriver) compatível com a versão do teu navegador
+
 
 ## Passo a Passo
 
